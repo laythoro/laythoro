@@ -1,4 +1,10 @@
-### Hi there 👋
+<a href="https://github.com/simaanc">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laythoro&theme=transparent&show_icons=true" />
+</a>
+<a href="https://github.com/simaanc">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laythoro&layout=compact&langs_count=8&card_width=320&theme=transparent&show_icons=true" />
+</a>
+
 
 <!--
 **laythoro/laythoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
